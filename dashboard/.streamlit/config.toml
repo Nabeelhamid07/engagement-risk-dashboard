@@ -12,5 +12,4 @@ font = "sans serif"
 gatherUsageStats = false
 
 [server]
-# false = open default browser to Local URL when you run `streamlit run` (local dev)
-headless = false
+showEmailPrompt = false
