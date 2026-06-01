@@ -1,0 +1,288 @@
+intervention_id,student_id,intervention_date,intervention_type,reason,student_responded,response_time_hours,engagement_improved
+INT0001,STU0098,2025-02-20,SMS,Declining Grades,False,,False
+INT0002,STU0423,2025-03-06,Email,Missed Deadline,True,56,False
+INT0003,STU0520,2025-01-30,Phone Call,Declining Grades,True,96,False
+INT0004,STU0104,2025-01-30,Phone Call,Missed Deadline,True,6,False
+INT0005,STU0014,2025-03-05,In-Person Meeting,Missed Deadline,True,157,True
+INT0006,STU0572,2025-01-10,Email,Missed Deadline,True,127,True
+INT0007,STU0147,2025-01-01,Email,Mental Health Concern,True,28,True
+INT0008,STU0420,2025-02-07,Email,No VLE Activity,True,128,False
+INT0009,STU0068,2025-01-14,Email,Missed Deadline,False,,False
+INT0010,STU0282,2025-03-02,Email,Declining Grades,False,,False
+INT0011,STU0555,2024-12-22,Phone Call,Declining Grades,True,139,True
+INT0012,STU0366,2025-02-06,SMS,Declining Grades,True,91,True
+INT0013,STU0212,2025-02-01,Email,No VLE Activity,False,,False
+INT0014,STU0438,2025-01-02,Email,Missed Deadline,False,,False
+INT0015,STU0379,2025-03-14,Email,Mental Health Concern,True,149,True
+INT0016,STU0103,2025-02-24,SMS,Low Attendance,False,,False
+INT0017,STU0565,2025-02-05,Phone Call,Missed Deadline,False,,False
+INT0018,STU0128,2025-02-08,Email,Mental Health Concern,True,150,True
+INT0019,STU0003,2024-12-24,SMS,Declining Grades,True,124,True
+INT0020,STU0427,2025-03-21,SMS,No VLE Activity,False,,False
+INT0021,STU0007,2025-01-31,SMS,Declining Grades,True,120,True
+INT0022,STU0397,2025-03-12,Email,Mental Health Concern,False,,False
+INT0023,STU0528,2024-12-30,Phone Call,Declining Grades,True,29,False
+INT0024,STU0424,2025-01-22,Phone Call,Low Attendance,False,,False
+INT0025,STU0186,2025-02-21,In-Person Meeting,Mental Health Concern,True,64,True
+INT0026,STU0534,2025-03-03,SMS,Declining Grades,False,,False
+INT0027,STU0304,2025-03-06,Phone Call,Declining Grades,True,39,False
+INT0028,STU0223,2025-03-10,SMS,Declining Grades,False,,False
+INT0029,STU0387,2025-02-26,SMS,No VLE Activity,False,,False
+INT0030,STU0497,2025-03-04,SMS,Declining Grades,True,153,True
+INT0031,STU0418,2025-03-01,SMS,Low Attendance,False,,True
+INT0032,STU0348,2025-01-26,Phone Call,No VLE Activity,True,162,False
+INT0033,STU0078,2025-03-09,Email,Declining Grades,True,25,False
+INT0034,STU0131,2025-01-08,Email,Declining Grades,False,,False
+INT0035,STU0070,2025-01-14,In-Person Meeting,Missed Deadline,False,,False
+INT0036,STU0571,2025-02-05,Phone Call,Declining Grades,True,108,False
+INT0037,STU0092,2025-01-29,Email,Low Attendance,True,110,True
+INT0038,STU0575,2025-02-20,SMS,Mental Health Concern,False,,False
+INT0039,STU0044,2025-02-02,Email,Missed Deadline,True,30,True
+INT0040,STU0580,2024-12-30,Email,Low Attendance,False,,False
+INT0041,STU0596,2024-12-29,Phone Call,Mental Health Concern,True,82,False
+INT0042,STU0163,2024-12-28,Email,Missed Deadline,False,,False
+INT0043,STU0215,2025-03-09,Email,No VLE Activity,True,110,True
+INT0044,STU0155,2025-01-23,SMS,No VLE Activity,True,161,False
+INT0045,STU0233,2024-12-27,Email,Missed Deadline,True,44,True
+INT0046,STU0071,2025-02-13,SMS,Low Attendance,True,96,False
+INT0047,STU0107,2025-01-14,Email,Declining Grades,False,,True
+INT0048,STU0164,2025-03-14,SMS,Mental Health Concern,False,,False
+INT0049,STU0563,2025-02-08,SMS,Mental Health Concern,False,,True
+INT0050,STU0477,2025-03-13,Email,Declining Grades,True,60,True
+INT0051,STU0596,2025-03-02,Email,Mental Health Concern,False,,False
+INT0052,STU0366,2025-01-10,Email,Mental Health Concern,True,158,True
+INT0053,STU0147,2025-03-16,SMS,No VLE Activity,True,110,True
+INT0054,STU0272,2025-02-05,SMS,Mental Health Concern,True,62,True
+INT0055,STU0420,2025-01-17,Email,Mental Health Concern,False,,False
+INT0056,STU0306,2025-03-03,Email,Low Attendance,True,29,True
+INT0057,STU0395,2025-02-12,SMS,Missed Deadline,False,,False
+INT0058,STU0427,2025-02-13,Phone Call,Missed Deadline,True,103,False
+INT0059,STU0313,2025-02-08,Email,No VLE Activity,True,147,False
+INT0060,STU0296,2025-01-24,Email,Low Attendance,True,29,True
+INT0061,STU0185,2025-01-15,Email,Low Attendance,True,102,True
+INT0062,STU0251,2025-02-04,Phone Call,Low Attendance,False,,False
+INT0063,STU0201,2025-01-16,Email,Declining Grades,False,,False
+INT0064,STU0309,2025-03-16,In-Person Meeting,Declining Grades,True,135,False
+INT0065,STU0071,2025-03-18,SMS,Missed Deadline,True,99,False
+INT0066,STU0194,2025-01-23,SMS,Mental Health Concern,True,68,True
+INT0067,STU0362,2024-12-30,Email,Mental Health Concern,True,123,True
+INT0068,STU0037,2024-12-24,Phone Call,No VLE Activity,False,,True
+INT0069,STU0201,2025-01-26,SMS,Low Attendance,True,31,True
+INT0070,STU0595,2025-02-21,SMS,Low Attendance,True,123,True
+INT0071,STU0458,2025-01-22,SMS,Low Attendance,False,,False
+INT0072,STU0571,2025-03-10,SMS,No VLE Activity,False,,False
+INT0073,STU0185,2025-01-19,SMS,Low Attendance,False,,False
+INT0074,STU0301,2025-02-12,SMS,Declining Grades,False,,False
+INT0075,STU0232,2025-02-03,In-Person Meeting,Mental Health Concern,True,70,True
+INT0076,STU0201,2025-02-24,Email,Low Attendance,True,12,True
+INT0077,STU0203,2025-03-15,SMS,Low Attendance,True,71,True
+INT0078,STU0389,2025-02-23,Phone Call,Missed Deadline,True,162,False
+INT0079,STU0578,2025-02-08,Email,Declining Grades,True,98,True
+INT0080,STU0078,2025-02-11,Email,Missed Deadline,True,51,False
+INT0081,STU0375,2024-12-31,Phone Call,Missed Deadline,False,,False
+INT0082,STU0484,2024-12-30,Email,No VLE Activity,True,46,False
+INT0083,STU0045,2025-01-25,Phone Call,No VLE Activity,False,,True
+INT0084,STU0568,2025-03-11,In-Person Meeting,No VLE Activity,True,66,True
+INT0085,STU0302,2025-02-21,Email,Low Attendance,True,156,True
+INT0086,STU0440,2025-02-02,SMS,Declining Grades,True,52,True
+INT0087,STU0010,2025-01-30,Email,No VLE Activity,True,79,True
+INT0088,STU0066,2025-01-07,SMS,Declining Grades,False,,False
+INT0089,STU0141,2025-01-19,Email,No VLE Activity,False,,True
+INT0090,STU0158,2025-03-04,Email,Missed Deadline,False,,False
+INT0091,STU0506,2025-02-17,Email,Missed Deadline,False,,True
+INT0092,STU0345,2025-02-18,Email,No VLE Activity,True,65,False
+INT0093,STU0398,2025-02-08,Email,Missed Deadline,True,119,True
+INT0094,STU0302,2024-12-25,SMS,Mental Health Concern,False,,False
+INT0095,STU0070,2025-03-13,Phone Call,No VLE Activity,False,,True
+INT0096,STU0166,2025-01-09,SMS,No VLE Activity,False,,False
+INT0097,STU0600,2025-01-19,SMS,Mental Health Concern,False,,False
+INT0098,STU0370,2025-01-10,Email,Low Attendance,True,41,False
+INT0099,STU0587,2025-01-15,Email,No VLE Activity,False,,False
+INT0100,STU0209,2025-03-13,Email,No VLE Activity,True,30,True
+INT0101,STU0137,2025-03-06,Email,Missed Deadline,True,76,False
+INT0102,STU0519,2025-02-28,SMS,Missed Deadline,True,102,True
+INT0103,STU0148,2025-03-20,Email,Mental Health Concern,False,,False
+INT0104,STU0114,2025-02-01,SMS,Declining Grades,True,46,True
+INT0105,STU0121,2025-01-02,Email,Declining Grades,True,142,False
+INT0106,STU0186,2025-02-13,Email,Mental Health Concern,False,,False
+INT0107,STU0577,2025-02-28,In-Person Meeting,Missed Deadline,False,,False
+INT0108,STU0391,2025-03-15,Phone Call,Mental Health Concern,False,,False
+INT0109,STU0122,2025-02-02,Email,Missed Deadline,True,24,True
+INT0110,STU0530,2025-03-21,SMS,Declining Grades,True,89,True
+INT0111,STU0414,2025-01-01,Email,Missed Deadline,False,,False
+INT0112,STU0263,2024-12-29,In-Person Meeting,Mental Health Concern,True,162,False
+INT0113,STU0600,2025-03-20,SMS,Missed Deadline,False,,False
+INT0114,STU0557,2025-03-12,Phone Call,No VLE Activity,True,84,False
+INT0115,STU0344,2025-02-02,Phone Call,Low Attendance,True,114,False
+INT0116,STU0592,2025-01-08,SMS,No VLE Activity,True,12,True
+INT0117,STU0440,2025-01-01,Email,Missed Deadline,True,103,True
+INT0118,STU0382,2024-12-26,Email,Missed Deadline,True,111,True
+INT0119,STU0244,2025-02-17,Phone Call,Low Attendance,False,,False
+INT0120,STU0571,2025-03-02,SMS,Mental Health Concern,True,101,True
+INT0121,STU0037,2025-01-04,Email,Low Attendance,True,45,False
+INT0122,STU0335,2025-02-05,Email,No VLE Activity,True,135,False
+INT0123,STU0258,2025-03-09,In-Person Meeting,No VLE Activity,True,85,False
+INT0124,STU0455,2025-02-03,SMS,Declining Grades,True,155,True
+INT0125,STU0333,2025-03-16,In-Person Meeting,Mental Health Concern,False,,False
+INT0126,STU0007,2025-01-14,Email,Declining Grades,True,106,True
+INT0127,STU0168,2025-03-22,Email,No VLE Activity,True,155,True
+INT0128,STU0335,2025-02-17,Email,Low Attendance,False,,True
+INT0129,STU0313,2025-03-01,SMS,Low Attendance,True,99,True
+INT0130,STU0203,2025-02-26,SMS,No VLE Activity,False,,True
+INT0131,STU0595,2025-02-16,Email,Declining Grades,False,,False
+INT0132,STU0244,2025-03-16,Email,Low Attendance,False,,False
+INT0133,STU0266,2024-12-25,SMS,Missed Deadline,True,45,True
+INT0134,STU0122,2025-03-04,Email,No VLE Activity,False,,False
+INT0135,STU0593,2025-02-23,Phone Call,Missed Deadline,False,,False
+INT0136,STU0471,2025-01-06,Email,Mental Health Concern,False,,False
+INT0137,STU0226,2025-01-24,SMS,No VLE Activity,True,157,True
+INT0138,STU0204,2025-02-03,SMS,Missed Deadline,True,167,True
+INT0139,STU0138,2025-01-05,Email,Missed Deadline,True,142,False
+INT0140,STU0321,2025-01-26,Email,Missed Deadline,True,139,True
+INT0141,STU0150,2024-12-30,SMS,Low Attendance,True,149,True
+INT0142,STU0321,2025-03-15,Email,Missed Deadline,True,151,True
+INT0143,STU0248,2025-03-05,SMS,Low Attendance,False,,False
+INT0144,STU0318,2025-02-14,Phone Call,Low Attendance,True,158,True
+INT0145,STU0229,2025-02-04,Email,Mental Health Concern,False,,False
+INT0146,STU0187,2025-03-02,Email,Declining Grades,False,,False
+INT0147,STU0412,2025-03-22,Email,Low Attendance,False,,False
+INT0148,STU0058,2025-02-20,Email,Low Attendance,True,19,True
+INT0149,STU0001,2025-01-05,Email,Declining Grades,True,33,True
+INT0150,STU0293,2024-12-26,In-Person Meeting,Low Attendance,True,115,True
+INT0151,STU0519,2025-01-21,SMS,Missed Deadline,True,126,False
+INT0152,STU0062,2025-01-04,Email,No VLE Activity,True,46,True
+INT0153,STU0198,2024-12-31,Email,Missed Deadline,True,64,True
+INT0154,STU0574,2025-02-20,Email,Mental Health Concern,False,,False
+INT0155,STU0425,2024-12-22,SMS,Low Attendance,False,,False
+INT0156,STU0427,2025-02-04,Phone Call,Mental Health Concern,True,112,True
+INT0157,STU0320,2025-01-19,SMS,Missed Deadline,False,,False
+INT0158,STU0586,2025-03-11,Email,No VLE Activity,True,148,True
+INT0159,STU0150,2025-01-08,Email,No VLE Activity,True,39,True
+INT0160,STU0345,2025-01-19,Email,Mental Health Concern,False,,False
+INT0161,STU0390,2024-12-23,SMS,Declining Grades,True,152,False
+INT0162,STU0382,2025-02-27,SMS,No VLE Activity,False,,True
+INT0163,STU0139,2025-02-13,SMS,Declining Grades,True,51,True
+INT0164,STU0419,2025-03-11,In-Person Meeting,Low Attendance,False,,False
+INT0165,STU0304,2025-02-15,In-Person Meeting,Mental Health Concern,False,,False
+INT0166,STU0010,2025-01-09,Email,Mental Health Concern,True,11,False
+INT0167,STU0550,2024-12-31,SMS,Declining Grades,True,135,False
+INT0168,STU0512,2025-01-08,Phone Call,No VLE Activity,True,139,True
+INT0169,STU0475,2025-03-04,SMS,Mental Health Concern,True,22,False
+INT0170,STU0368,2024-12-29,Email,Mental Health Concern,False,,False
+INT0171,STU0146,2025-02-16,Phone Call,Mental Health Concern,True,164,True
+INT0172,STU0541,2025-01-01,Email,Missed Deadline,True,31,True
+INT0173,STU0444,2024-12-24,SMS,Declining Grades,False,,False
+INT0174,STU0212,2025-01-19,Email,Mental Health Concern,False,,False
+INT0175,STU0478,2025-02-25,In-Person Meeting,Low Attendance,True,149,False
+INT0176,STU0364,2025-01-29,Email,Missed Deadline,True,144,False
+INT0177,STU0397,2025-01-25,Phone Call,Declining Grades,False,,False
+INT0178,STU0369,2025-03-06,Email,Low Attendance,True,99,True
+INT0179,STU0126,2025-02-24,Phone Call,Missed Deadline,True,115,False
+INT0180,STU0303,2025-01-22,SMS,Low Attendance,False,,False
+INT0181,STU0043,2025-03-09,In-Person Meeting,Low Attendance,False,,False
+INT0182,STU0073,2025-01-28,SMS,Missed Deadline,False,,True
+INT0183,STU0538,2025-03-09,In-Person Meeting,No VLE Activity,False,,False
+INT0184,STU0239,2025-01-16,Phone Call,Missed Deadline,False,,False
+INT0185,STU0569,2025-02-13,SMS,Mental Health Concern,True,31,False
+INT0186,STU0043,2025-01-13,Email,Mental Health Concern,False,,False
+INT0187,STU0403,2025-02-17,Email,Declining Grades,False,,False
+INT0188,STU0320,2025-01-08,Phone Call,Mental Health Concern,True,68,False
+INT0189,STU0014,2025-01-26,SMS,No VLE Activity,True,130,True
+INT0190,STU0272,2024-12-26,SMS,Low Attendance,True,102,True
+INT0191,STU0425,2025-02-09,Phone Call,No VLE Activity,False,,True
+INT0192,STU0372,2025-03-01,SMS,Missed Deadline,False,,False
+INT0193,STU0302,2025-01-15,Email,Mental Health Concern,True,61,True
+INT0194,STU0415,2025-01-07,SMS,Mental Health Concern,False,,False
+INT0195,STU0471,2025-02-01,In-Person Meeting,Missed Deadline,False,,False
+INT0196,STU0372,2025-03-07,Phone Call,No VLE Activity,True,161,False
+INT0197,STU0345,2025-01-12,Phone Call,Mental Health Concern,True,126,True
+INT0198,STU0387,2025-03-06,Email,No VLE Activity,False,,True
+INT0199,STU0212,2025-01-12,SMS,Declining Grades,True,64,True
+INT0200,STU0013,2024-12-30,Phone Call,Low Attendance,True,16,True
+INT0201,STU0101,2025-01-06,SMS,Missed Deadline,True,39,True
+INT0202,STU0226,2025-02-16,Email,No VLE Activity,True,35,True
+INT0203,STU0194,2024-12-23,SMS,Mental Health Concern,True,108,True
+INT0204,STU0249,2025-02-16,Email,Mental Health Concern,True,128,False
+INT0205,STU0384,2025-02-05,SMS,Declining Grades,False,,False
+INT0206,STU0408,2025-01-22,Email,No VLE Activity,True,114,True
+INT0207,STU0542,2025-03-14,In-Person Meeting,Low Attendance,False,,False
+INT0208,STU0203,2025-02-05,Email,Mental Health Concern,False,,False
+INT0209,STU0551,2025-01-18,Email,Missed Deadline,False,,False
+INT0210,STU0333,2025-02-27,Email,Low Attendance,True,54,True
+INT0211,STU0008,2024-12-27,Email,No VLE Activity,True,97,True
+INT0212,STU0203,2025-01-13,Email,Declining Grades,True,150,True
+INT0213,STU0395,2025-01-21,SMS,Missed Deadline,True,23,True
+INT0214,STU0436,2025-01-21,SMS,Mental Health Concern,True,131,False
+INT0215,STU0124,2025-02-08,Phone Call,Low Attendance,False,,False
+INT0216,STU0043,2025-03-17,Email,Low Attendance,False,,False
+INT0217,STU0270,2025-02-24,Email,Missed Deadline,False,,False
+INT0218,STU0502,2025-01-19,SMS,Low Attendance,False,,False
+INT0219,STU0004,2025-01-12,Phone Call,No VLE Activity,True,55,False
+INT0220,STU0384,2025-02-27,SMS,Mental Health Concern,True,75,True
+INT0221,STU0312,2024-12-28,In-Person Meeting,Declining Grades,False,,False
+INT0222,STU0052,2025-03-15,Email,No VLE Activity,True,86,False
+INT0223,STU0046,2025-03-19,SMS,Mental Health Concern,True,113,True
+INT0224,STU0331,2024-12-24,Email,Mental Health Concern,False,,False
+INT0225,STU0126,2025-03-19,In-Person Meeting,Mental Health Concern,False,,True
+INT0226,STU0399,2025-01-07,Email,Declining Grades,False,,True
+INT0227,STU0383,2025-03-08,Email,Missed Deadline,True,168,True
+INT0228,STU0216,2025-02-17,Email,Declining Grades,True,106,True
+INT0229,STU0402,2025-02-28,Email,No VLE Activity,False,,False
+INT0230,STU0063,2025-01-21,SMS,Low Attendance,True,13,True
+INT0231,STU0579,2025-03-05,SMS,Low Attendance,True,83,True
+INT0232,STU0044,2025-02-11,SMS,Missed Deadline,True,7,True
+INT0233,STU0028,2025-01-01,SMS,Declining Grades,False,,False
+INT0234,STU0139,2024-12-30,Phone Call,No VLE Activity,True,148,True
+INT0235,STU0340,2024-12-28,Email,Missed Deadline,True,144,True
+INT0236,STU0507,2025-02-22,Email,Low Attendance,False,,False
+INT0237,STU0540,2025-02-15,SMS,Low Attendance,True,59,True
+INT0238,STU0333,2025-03-07,Phone Call,No VLE Activity,False,,False
+INT0239,STU0063,2025-02-10,Phone Call,Missed Deadline,False,,False
+INT0240,STU0131,2025-01-17,SMS,Mental Health Concern,True,122,True
+INT0241,STU0066,2025-03-22,Email,Mental Health Concern,True,25,True
+INT0242,STU0249,2025-02-06,Email,Mental Health Concern,False,,False
+INT0243,STU0148,2025-01-19,Email,Mental Health Concern,True,167,True
+INT0244,STU0507,2025-02-25,In-Person Meeting,Mental Health Concern,True,130,True
+INT0245,STU0044,2024-12-27,SMS,Mental Health Concern,False,,False
+INT0246,STU0312,2025-01-30,Phone Call,Declining Grades,False,,False
+INT0247,STU0142,2025-02-15,Email,Low Attendance,False,,False
+INT0248,STU0387,2025-01-28,SMS,Low Attendance,False,,False
+INT0249,STU0530,2025-02-28,SMS,Declining Grades,True,118,True
+INT0250,STU0467,2024-12-28,Email,Missed Deadline,True,42,True
+INT0251,STU0048,2025-01-22,SMS,No VLE Activity,True,33,True
+INT0252,STU0046,2025-02-11,SMS,Missed Deadline,True,114,False
+INT0253,STU0477,2025-02-10,Email,Low Attendance,False,,False
+INT0254,STU0372,2025-02-14,In-Person Meeting,Low Attendance,True,114,False
+INT0255,STU0403,2025-01-06,Phone Call,Low Attendance,False,,False
+INT0256,STU0563,2025-01-21,Email,Low Attendance,False,,False
+INT0257,STU0058,2025-02-07,Email,Missed Deadline,True,116,False
+INT0258,STU0141,2025-02-05,In-Person Meeting,Low Attendance,True,168,True
+INT0259,STU0107,2025-01-20,SMS,Declining Grades,False,,True
+INT0260,STU0137,2025-02-18,In-Person Meeting,Mental Health Concern,True,144,False
+INT0261,STU0121,2025-03-22,Email,Missed Deadline,True,145,True
+INT0262,STU0314,2024-12-22,In-Person Meeting,Declining Grades,True,162,True
+INT0263,STU0015,2025-01-25,In-Person Meeting,Declining Grades,False,,False
+INT0264,STU0580,2025-02-15,SMS,Declining Grades,False,,False
+INT0265,STU0314,2025-01-06,Phone Call,Mental Health Concern,True,128,True
+INT0266,STU0060,2025-02-21,Email,Mental Health Concern,False,,False
+INT0267,STU0118,2024-12-24,Email,Low Attendance,True,67,True
+INT0268,STU0530,2025-01-22,Email,Mental Health Concern,True,154,False
+INT0269,STU0350,2025-02-05,Email,Declining Grades,True,13,False
+INT0270,STU0189,2025-03-20,SMS,Mental Health Concern,False,,False
+INT0271,STU0506,2025-01-16,Email,Missed Deadline,False,,False
+INT0272,STU0550,2025-03-22,Email,Mental Health Concern,False,,False
+INT0273,STU0519,2025-02-12,SMS,Missed Deadline,True,13,False
+INT0274,STU0587,2024-12-23,SMS,No VLE Activity,False,,False
+INT0275,STU0168,2025-01-16,SMS,Declining Grades,True,98,False
+INT0276,STU0351,2025-03-12,Phone Call,Low Attendance,True,146,True
+INT0277,STU0196,2025-03-07,SMS,Missed Deadline,False,,False
+INT0278,STU0303,2025-02-03,Email,Low Attendance,True,77,True
+INT0279,STU0224,2024-12-29,Email,Missed Deadline,True,149,True
+INT0280,STU0506,2025-02-13,SMS,No VLE Activity,True,52,True
+INT0281,STU0183,2025-01-16,SMS,Low Attendance,True,166,False
+INT0282,STU0146,2025-01-11,SMS,Missed Deadline,False,,False
+INT0283,STU0013,2025-01-05,SMS,Missed Deadline,True,147,False
+INT0284,STU0535,2025-03-17,Email,No VLE Activity,False,,False
+INT0285,STU0029,2025-01-29,Email,Low Attendance,False,,True
+INT0286,STU0274,2025-03-07,Email,Declining Grades,True,39,True
+INT0287,STU0133,2025-03-17,Email,Mental Health Concern,True,87,True

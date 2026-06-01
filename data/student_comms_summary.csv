@@ -1,0 +1,298 @@
+student_id,comms_30d_count,comms_responded_30d,last_contact_date,last_contact_channel,last_contact_status,is_non_responsive
+STU0003,2,1,2025-03-19,meeting,Attended,False
+STU0004,3,0,2025-03-16,email,No response,True
+STU0005,2,1,2025-03-12,phone,Answered,False
+STU0006,1,0,2025-03-16,sms,Sent,False
+STU0007,3,1,2025-03-20,email,Opened,False
+STU0010,3,0,2025-03-18,sms,No response,True
+STU0013,3,0,2025-03-18,sms,No response,True
+STU0014,1,0,2025-02-27,email,No response,False
+STU0015,3,1,2025-03-19,meeting,Attended,False
+STU0017,2,0,2025-03-08,email,No response,True
+STU0020,1,1,2025-02-25,email,Replied,False
+STU0025,2,0,2025-03-22,phone,No answer,True
+STU0027,1,0,2025-03-02,sms,No response,False
+STU0028,6,0,2025-03-17,email,No response,True
+STU0029,1,0,2025-03-21,sms,Sent,False
+STU0031,1,1,2025-02-26,in_person,Conversation held,False
+STU0032,1,0,2025-02-25,email,Sent,False
+STU0033,4,0,2025-03-19,sms,Sent,True
+STU0037,5,1,2025-03-21,phone,Answered,False
+STU0043,2,0,2025-03-10,email,Opened,True
+STU0044,2,0,2025-03-15,email,No response,True
+STU0045,2,0,2025-03-19,email,No response,True
+STU0046,2,0,2025-03-17,phone,Voicemail,True
+STU0047,1,0,2025-02-28,email,No response,False
+STU0049,1,0,2025-03-22,email,Opened,False
+STU0052,2,0,2025-03-14,email,No response,True
+STU0054,1,0,2025-03-18,email,Opened,False
+STU0056,1,0,2025-03-04,email,No response,False
+STU0060,2,0,2025-03-13,phone,No answer,True
+STU0061,1,0,2025-03-15,sms,No response,False
+STU0064,1,0,2025-03-03,email,Opened,False
+STU0066,2,0,2025-03-16,sms,Sent,True
+STU0068,1,0,2025-03-22,email,Sent,False
+STU0069,3,1,2025-03-16,meeting,Attended,False
+STU0070,2,1,2025-03-09,sms,Sent,False
+STU0071,4,3,2025-03-21,email,Replied,False
+STU0072,1,1,2025-03-07,in_person,Conversation held,False
+STU0073,2,0,2025-03-10,email,Opened,True
+STU0074,2,1,2025-03-15,meeting,Attended,False
+STU0077,2,0,2025-03-18,email,No response,True
+STU0078,3,2,2025-03-13,phone,Answered,False
+STU0080,1,0,2025-02-23,email,Sent,False
+STU0087,1,1,2025-02-25,email,Replied,False
+STU0090,1,0,2025-03-04,email,No response,False
+STU0095,1,0,2025-03-02,email,Sent,False
+STU0099,1,0,2025-03-21,email,No response,False
+STU0103,3,1,2025-03-14,email,No response,False
+STU0104,1,0,2025-03-13,email,Sent,False
+STU0105,1,1,2025-02-21,in_person,Conversation held,False
+STU0107,4,0,2025-03-21,phone,No answer,True
+STU0112,1,1,2025-03-14,email,Replied,False
+STU0114,3,0,2025-03-22,email,No response,True
+STU0116,1,0,2025-03-06,sms,Sent,False
+STU0118,2,0,2025-03-13,email,No response,True
+STU0121,1,0,2025-03-17,email,Sent,False
+STU0122,6,1,2025-03-15,meeting,Rescheduled,False
+STU0123,1,0,2025-03-20,email,Sent,False
+STU0125,1,0,2025-02-22,meeting,No-show,False
+STU0127,4,1,2025-03-17,email,Sent,False
+STU0128,3,0,2025-02-27,email,No response,True
+STU0129,1,0,2025-02-28,sms,Sent,False
+STU0131,1,1,2025-02-22,phone,Answered,False
+STU0133,1,0,2025-02-28,email,Sent,False
+STU0136,1,0,2025-02-28,sms,Sent,False
+STU0137,5,0,2025-03-22,sms,Sent,True
+STU0139,3,0,2025-03-13,email,Opened,True
+STU0141,5,0,2025-03-19,sms,No response,True
+STU0142,1,1,2025-03-04,in_person,Conversation held,False
+STU0148,2,0,2025-03-08,email,No response,True
+STU0150,2,0,2025-03-21,email,No response,True
+STU0151,1,0,2025-03-18,email,No response,False
+STU0152,2,1,2025-03-05,sms,No response,False
+STU0154,1,0,2025-02-28,sms,Sent,False
+STU0155,1,0,2025-03-01,sms,Sent,False
+STU0158,3,0,2025-03-22,phone,Voicemail,True
+STU0160,1,1,2025-03-06,meeting,Attended,False
+STU0163,2,0,2025-03-19,sms,Sent,True
+STU0164,4,1,2025-03-15,meeting,Rescheduled,False
+STU0166,4,0,2025-03-21,phone,Voicemail,True
+STU0168,7,1,2025-03-19,email,Sent,False
+STU0176,1,0,2025-03-18,email,No response,False
+STU0182,1,1,2025-02-21,email,Replied,False
+STU0183,3,1,2025-03-17,email,Sent,False
+STU0185,1,0,2025-03-19,email,Opened,False
+STU0186,4,1,2025-03-17,email,Sent,False
+STU0187,3,1,2025-03-22,email,Replied,False
+STU0191,1,0,2025-03-12,sms,Sent,False
+STU0193,3,2,2025-03-18,phone,Voicemail,False
+STU0194,2,0,2025-03-14,email,Sent,True
+STU0195,1,0,2025-03-08,email,Sent,False
+STU0199,4,2,2025-03-21,sms,Sent,False
+STU0201,4,1,2025-03-08,phone,Answered,False
+STU0202,1,1,2025-02-25,meeting,Attended,False
+STU0203,5,0,2025-03-22,email,Sent,True
+STU0208,1,0,2025-02-22,email,No response,False
+STU0211,1,0,2025-02-28,email,Sent,False
+STU0212,3,0,2025-03-17,phone,No answer,True
+STU0214,2,0,2025-03-14,sms,Sent,True
+STU0215,5,0,2025-03-18,email,No response,True
+STU0216,3,1,2025-03-09,sms,Sent,False
+STU0219,1,0,2025-02-23,sms,No response,False
+STU0220,1,0,2025-03-13,email,No response,False
+STU0221,1,0,2025-03-03,sms,Sent,False
+STU0223,2,0,2025-03-19,email,Sent,True
+STU0224,4,1,2025-03-18,email,No response,False
+STU0226,3,0,2025-03-05,email,Sent,True
+STU0229,5,2,2025-03-10,phone,No answer,False
+STU0230,4,1,2025-03-07,sms,Sent,False
+STU0231,1,0,2025-02-20,sms,Sent,False
+STU0232,4,2,2025-03-06,sms,No response,False
+STU0233,1,0,2025-03-13,phone,Voicemail,False
+STU0234,2,0,2025-03-01,sms,No response,True
+STU0237,1,1,2025-02-20,email,Replied,False
+STU0238,1,0,2025-03-04,email,Opened,False
+STU0244,7,0,2025-03-21,sms,No response,True
+STU0245,1,0,2025-03-10,email,No response,False
+STU0246,5,3,2025-03-20,phone,Answered,False
+STU0247,1,1,2025-02-23,email,Replied,False
+STU0248,1,0,2025-02-24,meeting,Rescheduled,False
+STU0249,1,0,2025-03-03,sms,Sent,False
+STU0250,1,0,2025-02-21,meeting,No-show,False
+STU0251,3,1,2025-03-06,email,Sent,False
+STU0253,2,2,2025-03-08,phone,Answered,False
+STU0261,1,0,2025-03-17,email,No response,False
+STU0262,1,1,2025-03-16,in_person,Conversation held,False
+STU0265,2,0,2025-03-04,email,No response,True
+STU0266,1,0,2025-03-16,email,No response,False
+STU0267,1,1,2025-02-26,meeting,Attended,False
+STU0268,4,3,2025-03-15,meeting,Attended,False
+STU0269,1,1,2025-02-21,email,Replied,False
+STU0270,2,0,2025-03-22,email,Sent,True
+STU0273,1,0,2025-03-08,email,Opened,False
+STU0274,4,0,2025-03-20,sms,Sent,True
+STU0279,1,0,2025-03-22,email,Sent,False
+STU0285,1,0,2025-02-27,sms,Sent,False
+STU0286,1,0,2025-02-25,sms,No response,False
+STU0288,1,0,2025-02-20,sms,Sent,False
+STU0289,3,1,2025-03-13,meeting,No-show,False
+STU0291,1,0,2025-02-21,meeting,Rescheduled,False
+STU0293,4,0,2025-03-22,email,No response,True
+STU0294,3,0,2025-03-09,sms,Sent,True
+STU0296,1,0,2025-03-22,email,No response,False
+STU0299,2,0,2025-02-26,phone,No answer,True
+STU0300,2,1,2025-03-13,phone,No answer,False
+STU0301,1,0,2025-03-06,phone,No answer,False
+STU0302,3,0,2025-03-19,sms,Sent,True
+STU0304,2,0,2025-03-19,email,Sent,True
+STU0307,3,0,2025-03-14,email,No response,True
+STU0308,2,0,2025-03-19,meeting,No-show,True
+STU0309,6,0,2025-03-16,email,No response,True
+STU0310,4,1,2025-03-15,meeting,No-show,False
+STU0312,2,1,2025-03-14,phone,Answered,False
+STU0313,2,0,2025-03-01,email,No response,True
+STU0314,2,0,2025-03-10,email,Opened,True
+STU0315,2,1,2025-03-22,sms,Replied,False
+STU0316,1,0,2025-03-08,email,No response,False
+STU0317,3,0,2025-03-11,sms,Sent,True
+STU0320,2,0,2025-03-15,phone,Voicemail,True
+STU0321,2,0,2025-03-20,email,Sent,True
+STU0325,1,1,2025-02-22,phone,Answered,False
+STU0329,1,0,2025-02-25,phone,No answer,False
+STU0330,1,0,2025-03-11,phone,No answer,False
+STU0331,1,1,2025-03-13,sms,Replied,False
+STU0333,2,1,2025-03-22,in_person,Conversation held,False
+STU0334,1,1,2025-03-03,email,Replied,False
+STU0335,2,0,2025-03-05,phone,No answer,True
+STU0338,3,0,2025-03-22,email,No response,True
+STU0340,1,0,2025-02-22,sms,No response,False
+STU0342,1,0,2025-03-22,sms,Sent,False
+STU0344,5,1,2025-03-22,email,No response,False
+STU0345,4,0,2025-03-19,sms,Sent,True
+STU0348,1,0,2025-03-19,sms,Sent,False
+STU0349,1,1,2025-03-13,in_person,Conversation held,False
+STU0350,1,0,2025-03-07,email,Sent,False
+STU0352,1,0,2025-02-20,sms,Sent,False
+STU0353,1,0,2025-02-20,email,No response,False
+STU0359,1,0,2025-02-26,email,No response,False
+STU0362,2,1,2025-03-07,meeting,Attended,False
+STU0363,2,0,2025-03-20,sms,Sent,True
+STU0366,3,1,2025-03-17,email,Opened,False
+STU0368,2,0,2025-03-13,sms,No response,True
+STU0370,1,1,2025-03-09,sms,Replied,False
+STU0371,1,0,2025-02-27,email,No response,False
+STU0372,1,0,2025-03-09,email,Sent,False
+STU0374,1,0,2025-03-17,email,No response,False
+STU0378,1,0,2025-03-22,sms,Sent,False
+STU0379,3,1,2025-03-20,phone,Answered,False
+STU0382,2,0,2025-03-07,sms,No response,True
+STU0383,3,1,2025-03-06,phone,No answer,False
+STU0384,4,1,2025-03-14,email,No response,False
+STU0386,1,0,2025-03-13,sms,Sent,False
+STU0387,1,1,2025-03-06,in_person,Conversation held,False
+STU0389,1,0,2025-03-18,sms,Sent,False
+STU0390,1,0,2025-03-10,email,Opened,False
+STU0391,5,1,2025-03-22,in_person,Conversation held,False
+STU0395,4,0,2025-03-18,email,No response,True
+STU0396,1,0,2025-03-15,sms,Sent,False
+STU0397,1,0,2025-03-20,email,No response,False
+STU0399,2,0,2025-03-05,email,No response,True
+STU0401,2,0,2025-03-16,email,No response,True
+STU0403,4,0,2025-03-22,email,Sent,True
+STU0407,2,0,2025-03-09,sms,Sent,True
+STU0408,7,2,2025-03-20,in_person,Conversation held,False
+STU0413,1,0,2025-03-04,phone,No answer,False
+STU0414,2,0,2025-03-09,sms,Sent,True
+STU0415,1,0,2025-03-02,email,Sent,False
+STU0416,1,0,2025-02-26,email,Sent,False
+STU0419,3,2,2025-03-15,email,No response,False
+STU0420,6,0,2025-03-19,meeting,No-show,True
+STU0421,1,0,2025-03-14,sms,Sent,False
+STU0422,2,0,2025-03-05,email,No response,True
+STU0423,1,0,2025-03-19,sms,Sent,False
+STU0425,1,0,2025-03-22,sms,No response,False
+STU0426,2,0,2025-03-20,email,No response,True
+STU0427,2,1,2025-03-12,email,Replied,False
+STU0429,2,1,2025-03-21,email,No response,False
+STU0431,2,0,2025-03-21,email,Sent,True
+STU0432,1,1,2025-03-06,in_person,Conversation held,False
+STU0433,1,0,2025-03-12,email,Sent,False
+STU0440,2,0,2025-03-19,phone,No answer,True
+STU0444,1,0,2025-03-19,email,Sent,False
+STU0447,3,0,2025-03-17,email,No response,True
+STU0451,2,0,2025-03-15,meeting,No-show,True
+STU0455,1,0,2025-03-17,email,Sent,False
+STU0456,1,0,2025-03-20,email,No response,False
+STU0457,1,0,2025-03-20,meeting,No-show,False
+STU0458,1,0,2025-03-10,sms,Sent,False
+STU0461,2,2,2025-03-20,sms,Replied,False
+STU0463,1,0,2025-02-24,sms,Sent,False
+STU0466,2,1,2025-03-17,meeting,Attended,False
+STU0467,1,0,2025-03-08,phone,Voicemail,False
+STU0468,1,1,2025-03-17,meeting,Attended,False
+STU0471,4,0,2025-03-04,sms,Sent,True
+STU0475,3,2,2025-03-15,phone,Answered,False
+STU0477,9,1,2025-03-18,meeting,No-show,False
+STU0479,2,0,2025-03-09,email,Opened,True
+STU0482,1,0,2025-02-27,sms,Sent,False
+STU0484,2,0,2025-03-20,email,No response,True
+STU0487,1,0,2025-02-20,phone,No answer,False
+STU0491,5,1,2025-03-18,email,Opened,False
+STU0494,1,0,2025-03-22,phone,No answer,False
+STU0496,1,0,2025-02-23,email,No response,False
+STU0497,2,0,2025-03-11,email,Sent,True
+STU0499,5,1,2025-03-18,email,No response,False
+STU0500,1,0,2025-03-20,sms,No response,False
+STU0502,2,0,2025-03-09,email,Sent,True
+STU0503,1,0,2025-03-22,email,No response,False
+STU0504,1,0,2025-02-22,email,No response,False
+STU0505,1,0,2025-03-03,email,No response,False
+STU0506,3,0,2025-03-10,email,Sent,True
+STU0507,6,0,2025-03-10,meeting,Rescheduled,True
+STU0508,4,1,2025-03-10,in_person,Conversation held,False
+STU0519,5,0,2025-03-20,email,Opened,True
+STU0520,1,0,2025-02-28,sms,No response,False
+STU0521,2,0,2025-02-25,phone,Voicemail,True
+STU0524,1,0,2025-03-06,email,Opened,False
+STU0526,1,0,2025-02-20,email,No response,False
+STU0527,1,0,2025-03-04,email,Sent,False
+STU0528,5,0,2025-03-17,phone,No answer,True
+STU0529,2,0,2025-03-17,email,No response,True
+STU0533,2,1,2025-03-17,email,No response,False
+STU0535,4,1,2025-03-22,email,Opened,False
+STU0536,5,2,2025-03-16,sms,Sent,False
+STU0538,5,1,2025-03-06,email,Sent,False
+STU0541,4,1,2025-03-16,email,Sent,False
+STU0542,1,0,2025-02-28,phone,No answer,False
+STU0543,1,0,2025-03-20,email,No response,False
+STU0546,3,0,2025-03-16,phone,Voicemail,True
+STU0548,2,0,2025-03-10,sms,No response,True
+STU0550,3,0,2025-03-19,email,No response,True
+STU0551,3,0,2025-03-22,email,Opened,True
+STU0554,1,1,2025-03-20,in_person,Conversation held,False
+STU0557,4,0,2025-03-05,sms,No response,True
+STU0558,2,0,2025-03-20,email,Sent,True
+STU0559,1,0,2025-03-13,meeting,No-show,False
+STU0560,1,0,2025-03-19,email,No response,False
+STU0561,2,0,2025-03-05,sms,No response,True
+STU0562,4,0,2025-03-17,email,Opened,True
+STU0563,2,0,2025-03-14,email,Opened,True
+STU0565,4,1,2025-03-12,sms,Sent,False
+STU0570,1,1,2025-02-28,in_person,Conversation held,False
+STU0571,4,0,2025-03-16,email,Opened,True
+STU0572,8,0,2025-03-17,email,No response,True
+STU0573,1,1,2025-03-07,phone,Answered,False
+STU0575,5,0,2025-03-17,email,No response,True
+STU0578,2,0,2025-03-19,sms,No response,True
+STU0580,1,1,2025-03-05,email,Replied,False
+STU0581,3,0,2025-03-18,email,Sent,True
+STU0583,1,1,2025-03-03,phone,Answered,False
+STU0584,1,0,2025-02-20,phone,No answer,False
+STU0587,4,0,2025-03-14,phone,Voicemail,True
+STU0592,5,0,2025-03-15,sms,Sent,True
+STU0594,2,0,2025-03-20,sms,Sent,True
+STU0595,1,0,2025-03-14,email,No response,False
+STU0596,2,0,2025-03-09,email,Opened,True
+STU0599,1,0,2025-03-01,email,No response,False
+STU0600,2,0,2025-02-25,email,Opened,True

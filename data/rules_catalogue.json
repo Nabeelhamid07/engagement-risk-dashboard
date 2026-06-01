@@ -1,0 +1,192 @@
+[
+  {
+    "id": "WD_CRIT",
+    "name": "Critical withdrawal risk",
+    "description": "Triggered when the predictive model estimates a 40%+ probability that the student will withdraw within the semester.",
+    "trigger_summary": "withdraw_prob >= 0.40",
+    "severity": "escalation",
+    "action": "Schedule a mandatory 1:1 retention meeting with personal tutor within 5 working days",
+    "route_to": "Personal Tutor",
+    "policy_basis": "Student Retention Policy \u00a74.2 (Critical Early Alert)"
+  },
+  {
+    "id": "WD_HIGH",
+    "name": "High withdrawal risk",
+    "description": "Triggered when withdrawal probability sits in the 25\u201340% band.",
+    "trigger_summary": "0.25 <= withdraw_prob < 0.40",
+    "severity": "high",
+    "action": "Welfare phone call from Student Services within 7 working days",
+    "route_to": "Student Services",
+    "policy_basis": "Student Retention Policy \u00a74.3 (Targeted Outreach)"
+  },
+  {
+    "id": "WD_MOD",
+    "name": "Elevated withdrawal risk",
+    "description": "Triggered when withdrawal probability sits in the 15\u201325% band.",
+    "trigger_summary": "0.15 <= withdraw_prob < 0.25",
+    "severity": "medium",
+    "action": "Automated SMS check-in offering personal tutor office hours",
+    "route_to": "Personal Tutor",
+    "policy_basis": "Student Retention Policy \u00a74.4 (Soft Nudge)"
+  },
+  {
+    "id": "ATT_CRIT",
+    "name": "Critical attendance",
+    "description": "Four-week rolling attendance has fallen below 50%, the institutional minimum for satisfactory engagement.",
+    "trigger_summary": "attendance_rate < 50",
+    "severity": "high",
+    "action": "Formal attendance review meeting with personal tutor",
+    "route_to": "Personal Tutor",
+    "policy_basis": "Academic Engagement Policy \u00a72.1 (Minimum Attendance)"
+  },
+  {
+    "id": "ATT_WARN",
+    "name": "Attendance warning",
+    "description": "Four-week rolling attendance is between 50% and 65% - early warning band.",
+    "trigger_summary": "50 <= attendance_rate < 65",
+    "severity": "low",
+    "action": "Automated attendance warning email with study-skills resources",
+    "route_to": "Personal Tutor",
+    "policy_basis": "Academic Engagement Policy \u00a72.2 (Attendance Warnings)"
+  },
+  {
+    "id": "VLE_DISENG",
+    "name": "VLE disengagement",
+    "description": "No virtual learning environment activity for three or more consecutive weeks.",
+    "trigger_summary": "weeks_since_last_login >= 3",
+    "severity": "medium",
+    "action": "Engagement check email from personal tutor (template: 'Are you OK?')",
+    "route_to": "Personal Tutor",
+    "policy_basis": "Digital Engagement Policy \u00a73.1 (Inactivity Alerts)"
+  },
+  {
+    "id": "ATT_CONSECUTIVE",
+    "name": "Consecutive missed sessions",
+    "description": "Five or more consecutive scheduled sessions missed without explanation - the institutional automatic-review trigger.",
+    "trigger_summary": "consecutive_missed_max >= 5",
+    "severity": "high",
+    "action": "Personal tutor must initiate contact within 48 hours and log the outcome",
+    "route_to": "Personal Tutor",
+    "policy_basis": "Academic Engagement Policy \u00a72.3 (Consecutive Absence Trigger)"
+  },
+  {
+    "id": "FAIL_CRIT",
+    "name": "Critical failure risk on upcoming assessment",
+    "description": "Predicted probability of failing the next assessment is 70%+ and the assessment is within 7 days.",
+    "trigger_summary": "fail_prob >= 0.70 AND days_to_nearest_assessment <= 7",
+    "severity": "high",
+    "action": "Urgent 1:1 study-skills session and reminder to access the assessment brief",
+    "route_to": "Academic Skills Team",
+    "policy_basis": "Assessment Support Policy \u00a75.1 (Pre-assessment Intervention)"
+  },
+  {
+    "id": "FAIL_HIGH",
+    "name": "Elevated failure risk on upcoming assessment",
+    "description": "Predicted failure probability is 50%+ with the assessment within 14 days.",
+    "trigger_summary": "fail_prob >= 0.50 AND days_to_nearest_assessment <= 14",
+    "severity": "medium",
+    "action": "Invitation to weekly study-skills drop-in workshop",
+    "route_to": "Academic Skills Team",
+    "policy_basis": "Assessment Support Policy \u00a75.2 (Targeted Skills Workshops)"
+  },
+  {
+    "id": "BRIEF_UNREAD",
+    "name": "Assessment brief unread close to deadline",
+    "description": "Student has not accessed the upcoming assessment brief and the deadline is within 7 days.",
+    "trigger_summary": "not accessed_brief AND days_to_nearest_assessment <= 7",
+    "severity": "low",
+    "action": "Automated reminder email with a direct link to the assessment brief",
+    "route_to": "Module Lead",
+    "policy_basis": "Assessment Support Policy \u00a75.3 (Pre-deadline Nudge)"
+  },
+  {
+    "id": "GRADE_DROP",
+    "name": "Sudden grade drop from a strong baseline",
+    "description": "Most recent assessment was below 50% despite a previous semester GPA of 2.5 or higher.",
+    "trigger_summary": "last_assessment_grade < 50 AND previous_semester_gpa >= 2.5",
+    "severity": "medium",
+    "action": "Academic concern check-in with personal tutor",
+    "route_to": "Personal Tutor",
+    "policy_basis": "Academic Standards Policy \u00a76.1 (Performance Anomaly)"
+  },
+  {
+    "id": "LATE_PATTERN",
+    "name": "Pattern of late submissions",
+    "description": "Three or more late submissions in the rolling submission window.",
+    "trigger_summary": "assignments_submitted_late >= 3",
+    "severity": "low",
+    "action": "Invitation to a time-management workshop",
+    "route_to": "Academic Skills Team",
+    "policy_basis": "Academic Skills Policy \u00a77.2 (Submission Patterns)"
+  },
+  {
+    "id": "MISSING_ASSIGNMENTS",
+    "name": "Multiple missing assignments",
+    "description": "Three or more missing assignments across the student's enrolled modules.",
+    "trigger_summary": "missing_assignments_count >= 3",
+    "severity": "high",
+    "action": "Academic Skills Team to schedule a recovery-plan meeting",
+    "route_to": "Academic Skills Team",
+    "policy_basis": "Assessment Recovery Policy \u00a75.4 (Missing Assessment Trigger)"
+  },
+  {
+    "id": "WELLBEING",
+    "name": "Possible wellbeing concern",
+    "description": "Combined signal of declining engagement, low attendance and part-time work commitments - pattern associated with wellbeing pressure.",
+    "trigger_summary": "engagement_trend == 'Declining' AND attendance_rate < 60 AND works_part_time",
+    "severity": "high",
+    "action": "Welfare check-in from the Wellbeing Team within 5 working days",
+    "route_to": "Wellbeing Team",
+    "policy_basis": "Student Wellbeing Policy \u00a78.1 (Proactive Outreach)"
+  },
+  {
+    "id": "WELLBEING_FLAGS",
+    "name": "Multiple wellbeing concerns raised",
+    "description": "Two or more wellbeing concerns have been raised about this student by tutors or peers.",
+    "trigger_summary": "wellbeing_flags >= 2",
+    "severity": "high",
+    "action": "Wellbeing Team to make direct contact within 3 working days",
+    "route_to": "Wellbeing Team",
+    "policy_basis": "Student Wellbeing Policy \u00a78.2 (Multiple Flag Threshold)"
+  },
+  {
+    "id": "FIN_SUPPORT",
+    "name": "Possible financial pressure",
+    "description": "Self-funded student combining part-time work with elevated failure risk - pattern associated with financial hardship.",
+    "trigger_summary": "financial_support == 'Self-funded' AND works_part_time AND fail_prob >= 0.40",
+    "severity": "medium",
+    "action": "Referral to the Financial Aid Office for a hardship review",
+    "route_to": "Financial Aid Office",
+    "policy_basis": "Student Hardship Policy \u00a79.1 (Proactive Referral)"
+  },
+  {
+    "id": "DIS_SUPPORT",
+    "name": "Declared disability + academic concern",
+    "description": "Student has a declared disability and is showing elevated failure or withdrawal risk - proactive referral to Disability Services.",
+    "trigger_summary": "has_declared_disability AND (fail_prob >= 0.40 OR withdraw_prob >= 0.20)",
+    "severity": "medium",
+    "action": "Proactive check-in from Disability Services to review support plan",
+    "route_to": "Disability Services",
+    "policy_basis": "Inclusive Education Policy \u00a710.1 (Proactive Disability Support)"
+  },
+  {
+    "id": "INT_SUPPORT",
+    "name": "International student showing isolation signals",
+    "description": "International student with low attendance and a gap in VLE activity - pattern associated with isolation or visa concerns.",
+    "trigger_summary": "is_international AND attendance_rate < 65 AND weeks_since_last_login >= 2",
+    "severity": "medium",
+    "action": "Welfare check from the International Office",
+    "route_to": "International Office",
+    "policy_basis": "International Student Support Policy \u00a711.1 (Welfare Outreach)"
+  },
+  {
+    "id": "NON_RESPONSIVE",
+    "name": "No response to repeated outreach",
+    "description": "Three or more contact attempts in the last 30 days with no response from the student.",
+    "trigger_summary": "comms_30d_count >= 3 AND comms_responded_30d == 0",
+    "severity": "high",
+    "action": "Senior Tutor to attempt in-person engagement and escalate to Head of Programme if no response",
+    "route_to": "Senior Tutor",
+    "policy_basis": "Engagement Escalation Policy \u00a712.1 (Non-Response Escalation)"
+  }
+]

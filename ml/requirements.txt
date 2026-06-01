@@ -1,0 +1,10 @@
+# Dependencies for training and scoring the ML pipeline.
+# These are NOT needed by the Streamlit dashboard at runtime - it reads
+# the precomputed predictions.csv and shap_drivers.csv files.
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.6.0
+xgboost>=2.0.0
+shap>=0.46.0
+joblib>=1.3.0
+faker>=20.0.0

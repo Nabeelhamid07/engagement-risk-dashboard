@@ -1,0 +1,52 @@
+{
+  "numeric": [
+    "attendance_rate",
+    "attendance_slope_4w",
+    "vle_logins_last_week",
+    "vle_time_hours_last_week",
+    "vle_logins_slope_4w",
+    "vle_hours_slope_4w",
+    "materials_accessed_last_4w",
+    "attendance_volatility_12w",
+    "vle_logins_volatility_12w",
+    "weeks_with_zero_logins",
+    "weeks_since_last_login",
+    "max_weekly_attendance_drop",
+    "assignments_submitted_on_time",
+    "assignments_submitted_late",
+    "last_assessment_grade",
+    "previous_semester_gpa",
+    "days_to_nearest_assessment",
+    "prior_intervention_count",
+    "prior_interventions_improved",
+    "year_of_study",
+    "consecutive_missed_max",
+    "late_arrivals_total",
+    "excused_absences",
+    "unexcused_absences",
+    "missing_assignments_count",
+    "quiz_attempts_count",
+    "resource_downloads_count",
+    "forum_posts_count",
+    "mean_module_grade",
+    "module_grade_variance",
+    "wellbeing_score",
+    "wellbeing_flags"
+  ],
+  "binary": [
+    "is_commuter",
+    "works_part_time",
+    "has_declared_disability",
+    "is_international",
+    "accessed_upcoming_assessment_brief"
+  ],
+  "categorical": [
+    "program",
+    "financial_support",
+    "engagement_trend"
+  ],
+  "targets": [
+    "withdrew",
+    "failed_next_assessment"
+  ]
+}

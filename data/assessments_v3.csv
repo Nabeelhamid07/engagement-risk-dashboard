@@ -1,0 +1,36 @@
+assessment_id,module_code,assessment_title,due_date,assessment_type,weight_percentage,students_enrolled,students_accessed_brief,students_not_accessed
+ASS0001,PS265,Reflective Portfolio,2025-05-16,Exam,40,168,97,71
+ASS0002,DA336,Literature Review,2025-05-09,Presentation,10,141,71,70
+ASS0003,EN242,Team Project Deliverable,2025-05-14,Presentation,30,86,47,39
+ASS0004,BA395,Team Project Deliverable,2025-05-05,Exam,10,137,117,20
+ASS0005,PS119,Reflective Portfolio,2025-04-16,Exam,10,98,76,22
+ASS0006,PS155,Literature Review,2025-04-10,Presentation,20,121,45,76
+ASS0007,DA364,Literature Review,2025-04-28,Project,15,149,124,25
+ASS0008,PS287,Reflective Portfolio,2025-04-05,Essay,20,146,122,24
+ASS0009,EN380,Final Examination,2025-03-28,Essay,10,94,82,12
+ASS0010,PS353,Team Project Deliverable,2025-05-01,Essay,30,103,56,47
+ASS0011,EN134,Data Analysis Project,2025-05-11,Presentation,10,124,105,19
+ASS0012,PS222,Research Methods Essay,2025-04-10,Project,30,115,72,43
+ASS0013,BA145,Data Analysis Project,2025-04-06,Exam,30,127,60,67
+ASS0014,EN122,Case Study Report,2025-04-24,Project,30,117,51,66
+ASS0015,EN365,Group Presentation,2025-03-23,Project,40,146,121,25
+ASS0016,CS136,Data Analysis Project,2025-04-17,Essay,30,91,51,40
+ASS0017,CS332,Reflective Portfolio,2025-04-28,Project,20,41,22,19
+ASS0018,EN170,Programming Coursework,2025-04-03,Project,15,48,26,22
+ASS0019,BA191,Reflective Portfolio,2025-05-16,Essay,15,169,124,45
+ASS0020,DA272,Final Examination,2025-05-04,Presentation,15,116,85,31
+ASS0021,EN205,Programming Coursework,2025-04-17,Project,50,87,41,46
+ASS0022,EN234,Final Examination,2025-04-25,Project,30,114,74,40
+ASS0023,PS175,Data Analysis Project,2025-04-25,Essay,50,71,62,9
+ASS0024,EN189,Research Methods Essay,2025-04-21,Essay,20,107,61,46
+ASS0025,BA391,Literature Review,2025-04-25,Presentation,20,61,33,28
+ASS0026,DA163,Team Project Deliverable,2025-04-17,Project,10,153,56,97
+ASS0027,DA389,Programming Coursework,2025-04-29,Project,30,106,54,52
+ASS0028,CS314,Data Analysis Project,2025-04-24,Presentation,20,67,52,15
+ASS0029,CS225,Literature Review,2025-04-07,Project,40,46,19,27
+ASS0030,PS167,Reflective Portfolio,2025-04-14,Essay,20,93,46,47
+ASS0031,BA286,Statistics Midterm Exam,2025-04-24,Project,50,144,83,61
+ASS0032,CS372,Data Analysis Project,2025-04-12,Presentation,50,60,24,36
+ASS0033,EN379,Research Proposal,2025-04-24,Essay,20,165,88,77
+ASS0034,PS371,Lab Practical Assessment,2025-04-08,Presentation,40,127,83,44
+ASS0035,PS367,Research Methods Essay,2025-04-25,Project,30,162,64,98
